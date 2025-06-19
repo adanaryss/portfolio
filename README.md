@@ -1,6 +1,6 @@
 # Adanarys Samara's Portfolio 💖
 
-Welcome to my personal portfolio! I’m Adanarys Samara, a passionate Computer Science student and intern at Inbetta. Here, you’ll find my skills, projects, and completed courses with verified certificates.
+Welcome to my personal portfolio! I’m Adanarys Samara, a passionate Computer Science student. Here, you’ll find my skills, projects, and completed courses with verified certificates.
 
 Feel free to explore and connect with me on [LinkedIn](https://www.linkedin.com/in/adanarys-mendonça-576660218) and [GitHub](https://github.com/adanaryss)!
 
@@ -9,7 +9,6 @@ Feel free to explore and connect with me on [LinkedIn](https://www.linkedin.com/
 ## About Me
 
 - 👩‍💻 Computer Science student  
-- 🚀 Intern at Inbetta  
 - 🎓 Continuous learner with a love for coding and tech  
 - 💬 Always open to collaboration and new challenges  
 
